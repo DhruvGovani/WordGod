@@ -1,5 +1,12 @@
-# WordGod
+# WordGod 
+
+WORDGOD - GOD SCRIPT OF WORD FOR MAKING BEST WORD FILE FOR BRUTE FORCE ATTACKS
+
 A Simple Python Script Which Returns the all possible passwords by making combination of word entered by user and words present in the file.
+
+use WordGodFast.py to save time or use WordGod.py to understands the proccess.
+
+
 
 Walkthrough:
   
