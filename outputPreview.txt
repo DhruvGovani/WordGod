@@ -1,0 +1,154 @@
+Dhruvs-MacBook-Pro:wordGod dhruvgovani$ python3 WordGod.py 
+
+##################################################################################################
+################################## WORD GOD  #####################################################
+##################################################################################################
+##################################################################################################
+############################ MADE BY DHRUV GOVANI ################################################
+##################################################################################################
+##################################################################################################
+################################# Version 1.0 ####################################################
+##################################################################################################
+##################################################################################################
+
+Features : This Program Will read a single word from you and fetch other words from specified source file 
+ 	    to genrate all possible combination of password and stores all of them in file.
+
+program initiated..
+
+Enter Main Word: wordN
+
+Enter Source File Name: source.txt
+
+Enter destination file name: passwords.txt
+
+new file created successfully..
+
+do you want any special character included? (Y/N) : Y
+
+enter special character : @
+
+do you want any other special character included? (Y/N): N
+
+all possible passwords written succesfully
+Dhruvs-MacBook-Pro:wordGod dhruvgovani$ cat passwords.txt 
+wordN@word1
+word1@wordN
+@word1wordN
+@wordNword1
+word1wordN@
+wordNword1@
+Wordn@word1
+word1@Wordn
+@word1Wordn
+@Wordnword1
+word1Wordn@
+Wordnword1@
+wordN@Word1
+Word1@wordN
+@Word1wordN
+@wordNWord1
+Word1wordN@
+wordNWord1@
+wordN@WORD1
+WORD1@wordN
+@WORD1wordN
+@wordNWORD1
+WORD1wordN@
+wordNWORD1@
+wordN@word1
+word1@wordN
+@word1wordN
+@wordNword1
+word1wordN@
+wordNword1@
+wordN@word2
+word2@wordN
+@word2wordN
+@wordNword2
+word2wordN@
+wordNword2@
+Wordn@word2
+word2@Wordn
+@word2Wordn
+@Wordnword2
+word2Wordn@
+Wordnword2@
+wordN@Word2
+Word2@wordN
+@Word2wordN
+@wordNWord2
+Word2wordN@
+wordNWord2@
+wordN@WORD2
+WORD2@wordN
+@WORD2wordN
+@wordNWORD2
+WORD2wordN@
+wordNWORD2@
+wordN@word2
+word2@wordN
+@word2wordN
+@wordNword2
+word2wordN@
+wordNword2@
+wordN@word3
+word3@wordN
+@word3wordN
+@wordNword3
+word3wordN@
+wordNword3@
+Wordn@word3
+word3@Wordn
+@word3Wordn
+@Wordnword3
+word3Wordn@
+Wordnword3@
+wordN@Word3
+Word3@wordN
+@Word3wordN
+@wordNWord3
+Word3wordN@
+wordNWord3@
+wordN@WORD3
+WORD3@wordN
+@WORD3wordN
+@wordNWORD3
+WORD3wordN@
+wordNWORD3@
+wordN@word3
+word3@wordN
+@word3wordN
+@wordNword3
+word3wordN@
+wordNword3@
+wordNword1
+word1wordN
+Word1wordN
+word1Wordn
+Wordnword1
+wordNWord1
+WORDNword1
+wordNWORD1
+wordnword1
+wordNword1
+wordNword2
+word2wordN
+Word2wordN
+word2Wordn
+Wordnword2
+wordNWord2
+WORDNword2
+wordNWORD2
+wordnword2
+wordNword2
+wordNword3
+word3wordN
+Word3wordN
+word3Wordn
+Wordnword3
+wordNWord3
+WORDNword3
+wordNWORD3
+wordnword3
+wordNword3
